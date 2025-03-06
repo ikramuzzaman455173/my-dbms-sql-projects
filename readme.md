@@ -45,4 +45,3 @@ The **Student Record Management System** database is built for academic institut
 ```
 /student_record_system/student_record_system.sql
 ```
-
