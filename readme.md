@@ -19,7 +19,7 @@ The **Online Banking System** database is designed to manage key banking operati
 - 🏦 **Loans & Payments** – Track loan approvals, disbursements, and repayments.
 
 📥 **Download:**
-🔗 [Click here to download onlinebanking.sql](https://raw.githubusercontent.com/ikramuzzaman455173/my-dbms-sql-projects/onlinebanking/onlinebanking.sql)
+🔗 [Click here to download onlinebanking.sql](https://raw.githubusercontent.com/ikramuzzaman455173/my-dbms-sql-projects/main/onlinebanking/onlinebanking.sql)
 
 📁 **File Path:**
 ```
@@ -39,7 +39,7 @@ The **Student Record Management System** database is built for academic institut
 - 👨‍🏫 **Teachers** – Faculty details and assigned courses.
 
 📥 **Download:**
-🔗 [Click here to download student_record_system.sql](https://raw.githubusercontent.com/ikramuzzaman455173/my-dbms-sql-projects/student_record_system/student_record_system.sql)
+🔗 [Click here to download student_record_system.sql](https://raw.githubusercontent.com/ikramuzzaman455173/my-dbms-sql-projects/main/student_record_system/student_record_system.sql)
 
 📁 **File Path:**
 ```
